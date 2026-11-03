@@ -55,7 +55,7 @@ I'm a Bengaluru-based **business and payments operations** professional with **2
 |---|---|---|---|
 | **🧭 CareerFlow AI** | AI job-search platform: reads Gmail (read-only) and tracks every application automatically, tailors resumes truthfully, and fills application forms through a Chrome extension | Next.js, Supabase, Gmail API, Gemini, GitHub Actions | [Live](https://careerflow-ajaybj.vercel.app) · [Code](https://github.com/ajaybj0204/careerflow-ai) |
 | **🍛 Mane & Oggarane** | Restaurant ordering and customer-retention platform: menu to checkout to Razorpay to kitchen dashboard, with rewards and delivery rules | Next.js, Supabase, Razorpay, Google OAuth | [Demo](https://mane-oggarane-demo.vercel.app) · [Code](https://github.com/ajaybj0204/mane-oggarane-staging) |
-| **💪 FITORA** | Personal fitness & wellness companion: AI guidance, 873-exercise library with real demo photos, multi-language UI | React, TypeScript, Vite, Tailwind, Gemini API | [Live](https://fit-mate-coral.vercel.app) · [Code](https://github.com/ajaybj0204/FitMate) |
+| **💪 FITORA** | Personal fitness & wellness companion: 873-exercise library with real demo photos, workout plans, Indian nutrition guidance, 5 languages | React, TypeScript, Vite, Tailwind, PWA | [Live](https://fit-mate-coral.vercel.app) · [Code](https://github.com/ajaybj0204/FitMate) |
 | **🌐 Portfolio** | My portfolio with case studies, a data lab and animated UI | Next.js, TypeScript, Tailwind | [Live](https://ajay-bj-portfolio.netlify.app) · [Code](https://github.com/ajaybj0204/ajay-portfolio) |
 
 ---
